@@ -11,7 +11,7 @@
 ...     pass
 ... 
 >>> MyClass.available_printers
-costly database call executing
+costly check of printer availability with I/O processes
 'bar'
 >>> MyClass.available_printers
 'bar'
